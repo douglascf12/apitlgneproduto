@@ -1,0 +1,11 @@
+{
+  "name": "apitlgneproduto",
+  "version": "1.0.0",
+  "description": "API Rest em node.js para o projeto Mobile da faculdade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Cardoso",
+  "license": "ISC"
+}
