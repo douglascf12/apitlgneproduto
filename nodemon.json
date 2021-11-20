@@ -1,9 +1,9 @@
 {
     "env": {
-        "MYSQL_USER": "bdfcede94df53e",
-        "MYSQL_PASSWORD": "fb52364f",
-        "MYSQL_DATABASE": "heroku_c8bbd335a4149bc",
-        "MYSQL_HOST": "us-cdbr-east-04.cleardb.com",
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "",
+        "MYSQL_DATABASE": "tlgneprodutos",
+        "MYSQL_HOST": "localhost",
         "MYSQL_PORT": 3306
     }
 }
